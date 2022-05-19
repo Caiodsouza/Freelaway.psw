@@ -9,5 +9,6 @@
   <li>SQlite </li> 
   </ul>
 
+<img src=README_IMGS/aceitar_job.png.png>
 
 
