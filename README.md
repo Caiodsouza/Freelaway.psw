@@ -10,5 +10,10 @@
   </ul>
 
 <img src=README_IMGS/aceitar_job.png.png>
+<img src=README_IMGS/cadastro.png.png>
+<img src=README_IMGS/enviar_job.png.png>
+<img src=README_IMGS/jobs_em_aberto.png.png>
+<img src=README_IMGS/logar.png.png>
+<img src=README_IMGS/perfil.png.png>
 
 
